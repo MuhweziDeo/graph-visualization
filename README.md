@@ -1,6 +1,11 @@
 # Graph-visualization
 
+This visaulizes tweets made in relation to COVID19. The API being is limited and may stop working after some time
+
+DEMO https://muhwezideo.github.io/graph-visualization/
+
 # Project requirements
+
 
 - Git https://git-scm.com/
 
